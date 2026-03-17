@@ -1,8 +1,6 @@
 # Automated Expense Tracker
 ### The Automated Expense Tracker is a local Android application designed to automate personal finance tracking. Instead of manually entering expenses, the app reads transaction SMS messages from your inbox and uses a locally hosted Large Language Model (LLM) to extract key details like the Merchant, Amount, and Category.
 
-All data is processed and stored locally on your device, ensuring 100% privacy with no data ever sent to the cloud.
-
 #### Tech Stack : 
 - App : Flutter (Android)
 - Backend API : FastAPI
@@ -36,4 +34,4 @@ All data is processed and stored locally on your device, ensuring 100% privacy w
 - Store: Valid Expenses are stored in the SQLite database.
 - Display: The app then fetches the updated list from the database and displays your spending summary.
 
-*Project developed as a privacy-first experiment in combining Mobile Development with Local AI.*
+*Project developed as an experiment to combine Mobile Development with Local AI.*
