@@ -12,7 +12,6 @@ All data is processed and stored locally on your device, ensuring 100% privacy w
 #### Features : 
 - Automated SMS reading, parsing
 - Intelligent categorisation (Food, Shopping, Health, etc.) [Expandable category]
-- 100% Local Processing (No cloud)
 
 #### System Requirements : 
 - Operating System: Windows, macOS, or Linux.
